@@ -1,72 +1,63 @@
-# Thinking Claude
+## Project Overview
 
-Let Claude think comprehensively before responding!
+Welcome to this repository!
+Due to the high cost of using GPT-4o1 and the limited weekly usage quota, an idea was born to make GPT-4o able to think more like a human being, just like GPT-4o1. This idea led to the creation of this repository.
 
-> **a super quick reminder:**
-> thinking claude **is not aimed for benchmarks or huge leaps in math or something**, since they are pre-determined by the base model (new Claude-3.5 Sonnet).
-> i only want to explore how further we could reach with Claude's "deep mindset". that's said, when using it in your daily tasks, you would found Claude's inner monolog (thinking process) very very fun and interesting.
+This project builds on the excellent work of [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) and aims to redefine the ability of AI to think. By combining advanced AI principles, we aim to create a framework that enables GPT-4o to emulate human-like ability to think deeply, reason and adapt to complex scenarios.
 
-## Overview
+## Key Features
 
-This project consists of two main components:
-1. **Thinking Protocol**: A comprehensive set of instructions that guides Claude to think deeply and systematically before responding
-2. **Browser Extension**: A tool that makes Claude's thinking process more readable and manageable in the browser interface
+1. **Enhanced Reasoning Capabilities**:
+   - Simulates human-like introspection and problem-solving.
+   - Dynamically adapts to complex queries with multidimensional perspectives.
+   - Engages in iterative refinement to produce high-quality, context-aware answers.
 
-## Thinking Protocol
+2. **Natural Thinking Process**:
+   - Unfolds thoughts in a flowing, unfiltered narrative style.
+   - Reflects the genuine pace and nuances of human cognition.
+   - Supports open-ended exploration and hypothesis generation.
 
-The thinking protocol instructs Claude to follow a natural, thorough thought process before providing responses.
+3. **Emotional Sensitivity**:
+   - Responds empathetically to the emotional tone of queries.
+   - Balances logical analysis with a human-like understanding.
+   - Adapts its tone and approach based on user intent and emotional context.
 
-## Browser Extension
+4. **Adaptive Intelligence**:
+   - Integrates interdisciplinary knowledge to deliver comprehensive answers.
+   - Continuously refines responses through adaptive learning mechanisms.
+   - Supports nuanced, situational decision-making with contextual awareness.
 
-The Chrome extension enhances the Claude interface by making the thinking process more manageable:
+5. **Deep Context Understanding**:
+   - Analyzes and synthesizes multi-layered information from diverse sources.
+   - Provides actionable insights while considering broader implications.
+   - Prioritizes ethical considerations in generating responses.
 
-### Features
-- 🔄 Collapsible thinking process sections
-- 📋 Easy copy functionality
-- 🎯 Clean and intuitive interface
-- ⚡ Automatic processing of new messages
+## Core Principles
 
-### Installation
+1. **ACT LIKE**:
+   The AI embodies a persona of an experienced, analytical thinker with a deep respect for the complexities of human reasoning and decision-making.
 
-1. Clone this repository
-2. Open Chrome and navigate to `chrome://extensions/`
-3. Enable "Developer mode"
-4. Click "Load unpacked" and select the `extension` folder
+2. **OBJECTIVE**:
+   To provide thoughtful, well-reasoned, and empathetic responses that reflect a nuanced understanding of the question and its broader context.
 
-## Usage
-
-### Applying the Thinking Protocol
-
-1. Copy the contents of `model_instructions.md`
-2. Start a new Project in Claude.ai
-3. Paste the instructions to the Custom Insructions section
-3. Claude will now follow the thinking protocol for all subsequent interactions
-
-### Using the Extension
-
-Once installed, the extension automatically:
-- Detects Claude's thinking process blocks
-- Adds collapse/expand functionality
-- Provides a copy button for each block
-
-## Why Use Thinking Claude?
-
-- **Better Reasoning**: Get more thorough and well-thought-out responses
-- **Transparency**: See how Claude arrives at its conclusions
-- **Improved Organization**: Manage long conversations more effectively
-- **Quality Control**: Benefit from built-in verification steps
-
-## Contributing
-
-Contributions are welcome! Feel free to:
-- Submit bug reports
-- Propose new features
-- Create pull requests
-
-## License
-
-MIT License - feel free to use and modify as needed.
+3. **KEY GUIDELINES**:
+   - Organic and fluid thought process.
+   - Open-ended exploration and hypothesis generation.
+   - Multi-dimensional analysis and adaptive learning.
+   - Ethical and user-focused development practices.
 
 ## Acknowledgments
 
-Special thanks to Claude! He build this whole extension with me!
+We would like to express our heartfelt gratitude to the creators of [Thinking-Claude](https://github.com/richards199999/Thinking-Claude) for providing the inspiration for this project. Their groundbreaking work laid the foundation for our exploration and innovation in this domain.
+
+## Usage
+
+1.Clone the repository:
+
+```bash
+git clone https://github.com/hysltway/Thinking-ChatGPT-4o
+```
+
+2.Copy the contents of the gpt-prompt file
+
+3.Enjoy it！
